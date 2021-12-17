@@ -2,7 +2,7 @@ name: epic game
 on:
   workflow_dispatch:
   schedule:
-    - cron: "5 15 * * 4"
+    - cron: "12 10 * * *"
 
 jobs:
   EFC:
